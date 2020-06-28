@@ -6,18 +6,10 @@ A tmux theme for Dracula color scheme.
 
 ## Installation
 
-1. Install using tpm.
-
-    ```tmux
-    set -g @plugin 'sei40kr/tmux-airline-dracula'
-    ```
-
-## Manual Installation
-
 1. Clone this repository.
 
     ```sh
-    git clone --depth=1 https://github.com/sei40kr/tmux-airline-dracula.git
+    git clone --depth=1 https://github.com/quwertyiop/tmux-airline-tomorrow256.git
     ```
 
 1. Add following to your `.tmux.conf`.
