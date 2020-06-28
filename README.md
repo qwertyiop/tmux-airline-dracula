@@ -2,7 +2,7 @@
 
 A tmux theme for Dracula color scheme.
 
-![Screenshot](https://raw.githubusercontent.com/sei40kr/tmux-airline-dracula/master/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/qwertyiop/tmux-airline-tomorrow256/master/screenshot.png)
 
 ## Installation
 
@@ -15,6 +15,6 @@ A tmux theme for Dracula color scheme.
 1. Add following to your `.tmux.conf`.
 
     ```tmux
-    run-shell '. /path/to/tmux-airline-dracula/airline-dracula.tmux'
+    run '. /path/to/tmux-airline-tomorrow256/airline-tomorrow256.tmux'
     ```
 
