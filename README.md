@@ -1,6 +1,6 @@
-# tmux-airline-dracula
+# tmux-airline-tomorrow256
 
-A tmux theme for Dracula color scheme.
+A tmux theme for tomorrow256 color scheme.
 
 ![Screenshot](https://raw.githubusercontent.com/qwertyiop/tmux-airline-tomorrow256/master/screenshot.png)
 
